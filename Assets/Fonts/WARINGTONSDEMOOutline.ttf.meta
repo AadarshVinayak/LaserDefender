@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f6113885762b6794494b8ac4eccbcab6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - WARINGTONS DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63a0b27ba3646914494e3b5a73833701, type: 3}
+  - {fileID: 12800000, guid: f025488b7f5b56f4e8910bfe143acc9d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
